@@ -19,5 +19,5 @@ I'm TaeYoon Kim, and currently interested in Front-end development.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cllaude99)](https://github.com/Cllaude99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cllaude99&layout=compact)](https://github.com/Cllaude99/github-readme-stats)
 
