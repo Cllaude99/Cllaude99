@@ -4,7 +4,7 @@
 I'm TaeYoon Kim, and currently interested in Front-end development.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cllaude99&show_icons=true&theme=react) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cllaude99&show_icons=true&theme=react)
 <br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=xodbsrla1025)](https://solved.ac/xodbsrla1025)
