@@ -1,7 +1,7 @@
 <h2>👋 TaeYoon Kim's Github </h2>
 
 <p>Welcome to my page!<br>
-I'm TaeYoon Kim, and currently interested in Front-end development.
+I'm TaeYoon Kim, and currently learning React & nodeJS.
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cllaude99&show_icons=true&theme=react)
