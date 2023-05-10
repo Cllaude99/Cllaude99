@@ -20,5 +20,5 @@ I'm TaeYoon Kim, and currently learning React & nodeJS.
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
-//[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cllaude99&layout=compact)](https://github.com/Cllaude99/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cllaude99&layout=compact)](https://github.com/Cllaude99/github-readme-stats)
 
