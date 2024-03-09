@@ -1,10 +1,5 @@
 <h2>👋 TaeYoon Kim's Github </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cllaude99&show_icons=true&theme=react)
-<br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=xodbsrla1025)](https://solved.ac/xodbsrla1025)
-<br><br>
 
 <h2>Tech Stack</h2>
 <p>
