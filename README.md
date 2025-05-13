@@ -14,6 +14,17 @@
 </p>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cllaude)](https://velog.io/@cllaude)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cllaude)](https://github.com/cllaude/velog-readme-stats)
+<p>
+  <span>
+    <a href="https://velog.io/@cllaude">
+      <img src="https://velog-readme-stats.vercel.app/api/list?name=cllaude" />
+    </a>
+  </span>
+  <span>
+    <a href="https://github.com/cllaude/velog-readme-stats">
+      <img src="https://velog-readme-stats.vercel.app/api?name=cllaude" />
+    </a>
+  </span>
+</p>
+
 
