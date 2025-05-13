@@ -13,25 +13,10 @@
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=cllaude" />
 </p>
 
-
 <p>
-  <span>
-    <a href="https://velog.io/@cllaude">
-      <img src="https://velog-readme-stats.vercel.app/api/list?name=cllaude" />
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/cllaude/velog-readme-stats">
-      <img src="https://velog-readme-stats.vercel.app/api?name=cllaude" />
-    </a>
-  </span>
-</p>
-
-
-<p align="center">
   <a href="https://velog.io/@haryan248">
-    <img height="130px" src="https://velog-readme-stats.vercel.app/api?name=haryan248&color=dark" />
-    <img height="130px" src="https://velog-readme-stats.vercel.app/api/list?name=haryan248&color=dark" />
+    <img height="150px" src="https://velog-readme-stats.vercel.app/api/list?name=cllaude&color=dark" />
+   <img height="150px" src="https://velog-readme-stats.vercel.app/api?name=cllaude&color=dark" />
   </a>
 </div>
 
