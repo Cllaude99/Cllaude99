@@ -15,8 +15,8 @@
 
 <p>
   <a href="https://velog.io/@haryan248">
-    <img height="150px" src="https://velog-readme-stats.vercel.app/api/list?name=cllaude&color=dark" />
-   <img height="150px" src="https://velog-readme-stats.vercel.app/api?name=cllaude&color=dark" />
+    <img height="140px" src="https://velog-readme-stats.vercel.app/api/list?name=cllaude&color=dark" />
+   <img height="140px" src="https://velog-readme-stats.vercel.app/api?name=cllaude&color=dark" />
   </a>
 </div>
 
