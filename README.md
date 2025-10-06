@@ -6,6 +6,15 @@ A Developer Who Enhances Code Flexibility and Improves Quality Through User-Cent
 - 🏃 I put relentless effort into achieving meaningful results through both skill and passion.
 - 🔥 "Don’t be a programmer. Be a problem solver."
 - ✉️ cllaude1025@gmail.com
+
+
+## 🌴 About me
+
+Execute the cllaude99 CLI as follows
+```
+npx cllaude99
+```
+
 <p>
   <h2>✍🏻 Velog</h2>
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=cllaude" />
