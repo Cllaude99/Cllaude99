@@ -15,16 +15,3 @@ Execute the cllaude99 CLI as follows
 npx cllaude99
 ```
 
-<p>
-  <h2>✍🏻 Velog</h2>
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=cllaude" />
-</p>
-
-<p>
-  <a href="https://velog.io/@cllaude">
-    <img height="130px" src="https://velog-readme-stats.vercel.app/api/list?name=cllaude&color=dark" />
-   <img height="130px" src="https://velog-readme-stats.vercel.app/api?name=cllaude&color=dark" />
-  </a>
-</div>
-
-
